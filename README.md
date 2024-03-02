@@ -16,8 +16,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="../.github/example.png" alt="Imagem da calculadora" width="400px">
-    <img src="../.github/example.png" alt="Imagem da calculadora 2" width="400px">
+    <img src="../print-screen/Captura de Tela 2024-03-02 às 19.03.34.png" alt="Imagem da calculadora" width="400px">
+    
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
