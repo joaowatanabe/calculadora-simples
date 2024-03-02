@@ -26,14 +26,6 @@
 - CSS
 - HTML
 
-<h3>Clonando</h3>
-
-How to clone your project
-
-```bash
-git clone your-project-url-in-github
-```
-
 <h2 id="contribute">Clone e estude com esse projeto</h2>
 
 Projeito feito para estudos, use a vontade!
