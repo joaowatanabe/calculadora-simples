@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-     <a href="[PROJECT__URL](https://wabemusic.github.io/calculadora-simples/)">📱 Acesse o projeto</a>
+     <a href="[https://wabemusic.github.io/calculadora-simples/](https://wabemusic.github.io/calculadora-simples/)">📱 Acesse o projeto</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
