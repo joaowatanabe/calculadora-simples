@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <b>Calculadora para operações simples de matemática, criada e desenvolvida com JavaScrips, HTML e CSS puros.t</b>
+    <b>Calculadora para operações simples de matemática, criada e desenvolvida com JavaScrips, HTML e CSS puros</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="../print-screen/Captura de Tela 2024-03-02 às 19.03.34.png" alt="Imagem da calculadora" width="400px">
+    <img src="./print-screen/Captura de Tela 2024-03-02 às 19.03.34.png" alt="Imagem da calculadora" width="400px">
     
 </p>
 
