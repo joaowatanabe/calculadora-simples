@@ -26,6 +26,16 @@
 - CSS
 - HTML
 
+
+<h2 id="contribute">Como rodar o projeto?</h2>
+Pode acessar por este link <a href="https://wabemusic.github.io/calculadora-simples">📱 Acesse o projeto</a>
+
+ou se preferir:
+Instale o <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server extension</a> no seu <a href="https://code.visualstudio.com/">Visual Studio Code</a>, clique com o botão direito no arquivo `index.html` e clique no `abrir com Live Server`.
+
+<h2>Status</h2>
+Concluido!
+
 <h2 id="contribute">Clone e estude com esse projeto</h2>
 
 Projeito feito para estudos, use a vontade!
