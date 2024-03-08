@@ -28,7 +28,7 @@
 
 
 <h2 id="contribute">Como rodar o projeto?</h2>
-Pode acessar por este link <a href="https://wabemusic.github.io/calculadora-simples">📱 Acesse o projeto</a>
+Pode acessar por este link <a href="https://joaowatanabe.github.io/calculadora-simples">📱 Acesse o projeto</a>
 
 
 Ou se preferir:
